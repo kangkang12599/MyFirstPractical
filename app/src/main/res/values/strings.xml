@@ -2,4 +2,18 @@
     <string name="app_name">MyFirstPractical</string>
     <string name="rollButton">Roll</string>
     <string name="numberText">Hello</string>
+    <string name="rules">Nasi lemak is a dish originating in Malay cuisine that consists of fragrant rice cooked in coconut milk and pandan leaf.
+        It is commonly found in Malaysia, where it is considered the national dish.[7][8][9]
+        It is also the native dish in neighbouring areas with significant Malay populations such as Singapore,[10] Brunei, and Southern Thailand.
+        In Indonesia it can be found in several parts of Sumatra, especially the Malay regions of Riau, Riau Islands and Medan.[11]
+        Nasi lemak can also be found in the Bangsamoro region of Mindanao, prepared by Filipino Moros,
+        as well as Australia\'s external territories of Christmas Island and the Cocos (Keeling) Islands.
+        It is considered an essential dish for a typical Malay-style breakfast.
+        Nasi lemak is featured as a national dish in most of the country’s tourism brochures and promotional materials.
+        It is not to be confused with nasi dagang,
+        sold in the Malaysian east coast states of Terengganu and Kelantan (and its kindred region in Pattani,
+        Yala and Narathiwat in Thailand and Natuna in Indonesia), although both dishes are often served for breakfast.
+        However, because nasi lemak can be served in a variety of ways, it is often eaten throughout the day.</string>
+    <string name="playerName">Enter your name</string>
+    <string name="updateButton">Update</string>
 </resources>
